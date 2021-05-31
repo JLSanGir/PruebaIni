@@ -5,8 +5,9 @@ def print_hi(name):
 
 def print_by(name):
     print("Adios " + name)
+    print(f'{name}  se fué')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Jose Luis')
-    print_by("PP")
+    print_by('Jose Luis')
