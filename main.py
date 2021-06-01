@@ -6,7 +6,7 @@ def print_by(name):
     print("Adios " + name)
 
 def print_preg(name):
-    print("Cómo estás? Yo bien")
+    print(f"Cómo estás, {name}? Yo bien")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
