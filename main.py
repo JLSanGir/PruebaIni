@@ -14,6 +14,9 @@ def print_preg(name):
 def print_ver(fecha):
     print(f"Realizado {fecha}")
 
+def print_rama(rama):
+    print(f'La rama es {rama}')
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Jose Luis')
@@ -23,3 +26,5 @@ if __name__ == '__main__':
     today = date.today()
 
     print_ver(today)
+
+    print("RamaRDL")
