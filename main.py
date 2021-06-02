@@ -28,3 +28,4 @@ if __name__ == '__main__':
     print_ver(today)
 
     print("RamaRDL")
+    print("Otra vez")
